@@ -22,3 +22,5 @@
 
 ![imgBIM11](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/7f0a1a27-c246-47e1-b4d9-af68902492db)
 ![imgBIM11](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/e90c454c-e105-4702-a632-24a2572190f2)
+![imgBIM12](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/da1bb92f-3d4f-4741-975b-7613d9441de8)
+![imgBIM13](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/3148d101-e875-41de-92fd-55f37b1aa328)
