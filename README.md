@@ -31,7 +31,10 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 
 ## Urban planning InfraWorks Screenshoots
 ![1916-AFS-IMG3](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/97edb3e4-265c-4721-8802-0f3f497a1ea8)
+
 ![1916-AFS-IMG4](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/497a080e-a058-434d-b146-fdfbcf1f7818)
+
+![1916-AFS-IMG5](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/6858fe32-2e3c-4382-9029-b7b631ea20bb)
 
 
 
