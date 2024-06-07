@@ -19,3 +19,4 @@
 ### Electrical screenshots
 ![imgBIM9](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/1d79d50d-9eb6-448d-9c45-ba354019bda8)
 ![imgBIM10](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/4d717002-fd13-42ce-bcfb-30b46a637eb1)
+![imgBIM11](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/f67650c5-05e8-4f82-a09b-331b7d224146)
