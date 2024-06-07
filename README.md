@@ -42,6 +42,8 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 
 ## Clash Detection - NAVISWORKS
 
+Here are some of the clashes analyzed using the Navisworks tool
+
 
 
 
