@@ -42,7 +42,11 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 
 ## Clash Detection - NAVISWORKS
 
-Here are some of the clashes analyzed using the Navisworks tool
+Here are some of the clashes analyzed using the Navisworks tool.
+
+![imgBIM14](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/61640c2e-3db8-4ae3-83d6-61b152bdd215)
+
+
 
 
 
