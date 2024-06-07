@@ -5,12 +5,12 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 
 ## Screenshots
 
-### Architecture screenshots
+### Architecture Screenshots
 ![imgBIM1](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/574e91fd-f61e-4ccd-bad6-c00837a0553a)
 ![imgBIM2](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/cb2d8056-a0b8-41ef-ba84-5c9927c1e023)
 ![imgBIM3](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/301f7e05-c4f4-4d8e-8d41-95b7f0b85e0e)
 
-### Estructural screenshots
+### Estructural Screenshots
 ![imgBIM4](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/cfbaba79-cae7-4418-aeb2-bc5cff912ed9)
 ![imgBIM5](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/745bf32e-8d4c-4e38-a4b2-0bf0c1b0f741)
 
@@ -20,7 +20,7 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 ![imgBIM7](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/59a29ca1-49c6-45ce-ad3e-52102b60a8ff)
 ![imgBIM8](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/c89d74c9-44be-44b9-99f4-bcf882024aec)
 
-### Electrical screenshots
+### Electrical Screenshots
 ![imgBIM9](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/1d79d50d-9eb6-448d-9c45-ba354019bda8)
 ![imgBIM10](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/4d717002-fd13-42ce-bcfb-30b46a637eb1)
 
@@ -29,4 +29,4 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 ![imgBIM12](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/da1bb92f-3d4f-4741-975b-7613d9441de8)
 ![imgBIM13](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/3148d101-e875-41de-92fd-55f37b1aa328)
 
-##Urban planning
+## Urban planning InfraWorks Screenshoots
