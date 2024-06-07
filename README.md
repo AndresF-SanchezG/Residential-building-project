@@ -11,3 +11,4 @@
 ![imgBIM5](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/745bf32e-8d4c-4e38-a4b2-0bf0c1b0f741)
 
 ### Hidraulic screenshots
+![imgBIM6](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/130e4eba-aa2b-4918-87e8-5784ea475e26)
