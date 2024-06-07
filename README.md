@@ -1,4 +1,8 @@
 # Residential-building-project
+## Description
+
+This project was carried out as part of the BIM ENGINEERING course with the training school Naska Digital, specialized in BIM topics.
+
 ## Screenshots
 
 ### Architecture screenshots
