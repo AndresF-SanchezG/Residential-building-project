@@ -15,3 +15,6 @@
 ![imgBIM6](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/a2fa1297-a122-4e0b-83be-4dab3eea7b20)
 ![imgBIM7](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/59a29ca1-49c6-45ce-ad3e-52102b60a8ff)
 ![imgBIM8](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/c89d74c9-44be-44b9-99f4-bcf882024aec)
+
+### Electrical screenshots
+![imgBIM9](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/1d79d50d-9eb6-448d-9c45-ba354019bda8)
