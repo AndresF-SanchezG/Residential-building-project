@@ -40,11 +40,12 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 
 ![1916-AFS-IMG5](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/6858fe32-2e3c-4382-9029-b7b631ea20bb)
 
-## Clash Detection - NAVISWORKS
+### Clash Detection - NAVISWORKS
 
 Here are some of the clashes analyzed using the Navisworks tool.
 
 ![imgBIM14](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/61640c2e-3db8-4ae3-83d6-61b152bdd215)
+![imgBIM15](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/b74daad8-5fdc-4d63-a6da-1290dafca160)
 
 
 
