@@ -8,3 +8,4 @@
 
 ### Estructural screenshots
 ![imgBIM4](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/cfbaba79-cae7-4418-aeb2-bc5cff912ed9)
+![imgBIM5](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/745bf32e-8d4c-4e38-a4b2-0bf0c1b0f741)
