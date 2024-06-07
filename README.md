@@ -1,9 +1,9 @@
 # Residential-building-project 🏗️
-## Description
+## Description 📝
 
 This project was carried out as part of the BIM ENGINEERING course with the training school Naska Digital, specialized in BIM topics.
 
-## Screenshots
+## Screenshots 📷
 
 ### Architecture Screenshots
 ![imgBIM1](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/574e91fd-f61e-4ccd-bad6-c00837a0553a)
@@ -40,7 +40,7 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 
 ![1916-AFS-IMG5](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/6858fe32-2e3c-4382-9029-b7b631ea20bb)
 
-### Clash Detection - NAVISWORKS
+### Clash Detection - NAVISWORKS :arr
 
 Here are some of the clashes analyzed using the Navisworks tool.
 
