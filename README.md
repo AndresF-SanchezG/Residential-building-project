@@ -38,7 +38,7 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 
 ![1916-AFS-IMG5](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/6858fe32-2e3c-4382-9029-b7b631ea20bb)
 
-View Video Animation
+[View Video Animation Project](https://drive.google.com/file/d/1aygtf248_IRBPkL_z-djRZVDkG5KvvG1/view?usp=sharing)
 
 
 
