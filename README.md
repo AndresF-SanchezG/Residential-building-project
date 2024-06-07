@@ -46,6 +46,7 @@ Here are some of the clashes analyzed using the Navisworks tool.
 
 ![imgBIM14](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/61640c2e-3db8-4ae3-83d6-61b152bdd215)
 ![imgBIM15](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/b74daad8-5fdc-4d63-a6da-1290dafca160)
+![imgBIM16](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/f22e1ee5-060b-4c63-9b13-e7aaaae42f67)
 
 
 
