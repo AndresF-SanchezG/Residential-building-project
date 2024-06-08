@@ -27,7 +27,8 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 
 ### Hidraulic screenshots 📷
 ![imgBIM6](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/130e4eba-aa2b-4918-87e8-5784ea475e26)
-![imgBIM6](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/a2fa1297-a122-4e0b-83be-4dab3eea7b20)
+![imgBIM29](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/48a3c5f6-670f-4cb7-8cab-0f30b873a94d)
+![imgBIM30](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/0213a472-49a4-4824-8243-7a6163edc49b)
 ![imgBIM7](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/59a29ca1-49c6-45ce-ad3e-52102b60a8ff)
 ![imgBIM8](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/c89d74c9-44be-44b9-99f4-bcf882024aec)
 
