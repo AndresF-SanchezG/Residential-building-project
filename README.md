@@ -15,12 +15,13 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 ![imgBIM18](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/7934fd15-d717-4d2d-a3e7-851fe468db6a)
 ![imgBIM19](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/05b100b0-6cd3-459b-a1c1-dae2bbeeb7a6)
 
-
-
-
 ### Estructural Screenshots 📷
 ![imgBIM4](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/cfbaba79-cae7-4418-aeb2-bc5cff912ed9)
 ![imgBIM5](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/745bf32e-8d4c-4e38-a4b2-0bf0c1b0f741)
+
+### Estructural Quantities ✔️
+![imgBIM20](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/2cbfd487-9cf4-4e07-b0d3-f54ebbe6d0dd)
+
 
 ### Hidraulic screenshots 📷
 ![imgBIM6](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/130e4eba-aa2b-4918-87e8-5784ea475e26)
