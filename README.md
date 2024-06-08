@@ -12,6 +12,7 @@ This project was carried out as part of the BIM ENGINEERING course with the trai
 
 ### Architectural Quantities ✔️
 ![imgBIM17](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/a4fd7912-56d7-4480-b184-0d55a08eba4c)
+![imgBIM18](https://github.com/AndresF-SanchezG/Residential-building-project/assets/113924667/8f58e27d-cfac-492c-9bc8-8ff2d835d076)
 
 
 
